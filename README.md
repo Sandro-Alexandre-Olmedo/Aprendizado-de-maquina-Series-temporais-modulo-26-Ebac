@@ -6,4 +6,4 @@
 
 ![Static Badge](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40) ![Static Badge](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas) ![Static Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-https://github.com/Sandro-Alexandre-Olmedo/Aprendizado-de-maquina-Series-temporais-modulo-26-Ebac/blob/dba0ed47dfea73766e2de73a1c1b9c8eb0ede3cd/temperatura.png
+![lineplot](https://github.com/Sandro-Alexandre-Olmedo/Aprendizado-de-maquina-Series-temporais-modulo-26-Ebac/blob/dba0ed47dfea73766e2de73a1c1b9c8eb0ede3cd/temperatura.png)
